@@ -1,11 +1,15 @@
 __pycache__/
 *.pyc
 .venv/
+.gate_venv/
 .env
 *.db
 *.sqlite*
+.local/
 data/
-data_large/
+data_bench/
 reports/
+reports_bench/
+reports_reg/
 final_state.csv
 .pytest_cache/
