@@ -1,7 +1,7 @@
 # Submission
 
 ## Candidate
-- **Name:** Rahul
+- **Name:** Manas Bhardwaj
 - **Assignment chosen:** A (Data)
 - **Time spent (honest estimate):** ~6.5 hours
 
